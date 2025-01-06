@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.blocksection input{
+    display: block;
+    
+}
+.itembold{
+    font-weight: bold;
+
+}
+
+.itembold td{
+    text-align: center;
+}
+   
